@@ -10,7 +10,7 @@ package practiceinheritance;
  * @author harba
  */
 public class PracticeInheritance {
-
+// vese hi 
     /**
      * @param args the command line arguments
      */
